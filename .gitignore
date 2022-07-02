@@ -10,7 +10,6 @@ package-lock.json
 
 # git specific
 
-.gitignore
 
 #project specific
 uploads/

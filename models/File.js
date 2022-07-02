@@ -1,7 +1,7 @@
 const mongoose = require("mongoose")
 
 
-const File = mongoose.Schema({
+const File = new mongoose.Schema({
     path:{
         type: String,
         required: true
